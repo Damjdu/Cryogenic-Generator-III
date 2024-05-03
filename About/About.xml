@@ -7,6 +7,22 @@
 		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
+	<modDependencies>
+        <li>
+            <packageId>Damjdu.CryogenicGeneratorII</packageId>
+            <displayName>Cryogenic Generator II</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2633024879</steamWorkshopUrl>
+        </li>
+        <li>
+            <packageId>Damjdu.CryogenicGeneratorI</packageId>
+            <displayName>Cryogenic Generator I</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2552526106</steamWorkshopUrl>
+        </li>
+    </modDependencies>
 	<packageId>Damjdu.CryogenicGeneratorIII</packageId>
+	<loadAfter>
+        <li>Damjdu.CryogenicGeneratorII</li>
+        <li>Damjdu.CryogenicGeneratorI</li>
+    </loadAfter>
  <description>Adds a legendary ultra-tech cryogenic power generator on any ground.</description>
 </ModMetaData>
