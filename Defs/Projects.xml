@@ -29,7 +29,7 @@
     <requiredResearchFacilities>
       <li>MultiAnalyzer</li>
     </requiredResearchFacilities>
-    <researchViewX>3.0</researchViewX>
+    <researchViewX>2.0</researchViewX>
     <researchViewY>0.0</researchViewY>
   </ResearchProjectDef>
 
