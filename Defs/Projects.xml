@@ -15,7 +15,7 @@
     <defName>CryoPowerIII</defName>
     <label>cryogenic power III</label>
 	<tab>CryogenicPower</tab>
-    <description>Build cryogenic generators, which is 2x stronger then the cryogenic generator I, on top of any Ground.</description>
+    <description>Build cryogenic generators, which is 3x stronger then the cryogenic generator I, on top of any Ground.</description>
     <baseCost>9000</baseCost>
     <techLevel>Ultra</techLevel>
     <prerequisites>
