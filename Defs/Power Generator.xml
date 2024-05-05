@@ -73,7 +73,7 @@
     </building>
     <constructEffect>ConstructMetal</constructEffect>
     <researchPrerequisites>
-		<li>CryoPowerII</li>
+		<li>CryoPowerIII</li>
 	</researchPrerequisites>
 	<constructionSkillPrerequisite>15</constructionSkillPrerequisite>
   </ThingDef>
