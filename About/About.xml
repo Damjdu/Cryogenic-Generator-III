@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
+
   <name>Cryogenic Generator III</name>
   <author>Damjdu</author>
+  <url>https://github.com/Damjdu/Cryogenic-Generator-III</url>
 	<supportedVersions>
 		<li>1.3</li>
 		<li>1.4</li>
 		<li>1.5</li>
-        	<li>1.6</li>
+    <li>1.6</li>
 	</supportedVersions>
-        <li>
-            <packageId>Damjdu.CryogenicGeneratorIII</packageId>
-            <displayName>Cryogenic Generator III</displayName>
-            <url>https://github.com/Damjdu/Cryogenic-Generator-III</url>
-        </li>
-
+  <packageId>Damjdu.CryogenicGeneratorIII</packageId>
  <description>Adds a legendary ultra-tech cryogenic power generator on any ground.</description>
 </ModMetaData>
