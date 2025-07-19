@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cryogenic generator III -->
+  <CryogenicPowerGeneratorIII.label>制冷发电机III</CryogenicPowerGeneratorIII.label>
+  <!-- EN: Produces 3x times the energy by compressing and refrigerating air into liquid, then controlling the evaporation and expansion of it. Must be kept dry. Puts 2 times more the dangerous amounts of cold air and requires no fuel source. -->
+  <CryogenicPowerGeneratorIII.description>通过压缩空气并将其冷冻成液体，然后控制其蒸发和膨胀来产生能量，周围必须保持干燥。可释放大量冷空气且无需燃料。是I代的三倍强度。</CryogenicPowerGeneratorIII.description>
+  
+</LanguageData>

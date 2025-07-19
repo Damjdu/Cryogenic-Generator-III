@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cryogenic power III -->
+  <CryoPowerIII.label>制冷发电机III</CryoPowerIII.label>
+  <!-- EN: Build cryogenic generators, which is 3x stronger then the cryogenic generator I, on top of any Ground. -->
+  <CryoPowerIII.description>解锁可在任意地形上建造的制冷发电机III，其效率为I代的三倍。</CryoPowerIII.description>
+  
+</LanguageData>
